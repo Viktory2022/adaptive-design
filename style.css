@@ -1,0 +1,57 @@
+.main {
+    display: flex;
+    border: 2px solid black;
+    /* flex-direction: column; */
+    /* flex-direction: row-reverse; */
+    /* justify-content: flex-end; */
+    /* justify-content: center; */
+    /* justify-content: space-evenly; */
+    flex-wrap: wrap;
+}
+
+.col {
+    width: 70px;
+    height: 70px;
+    text-align: centre;
+
+}
+.col-1 {
+        background-color: aquamarine;
+  }
+
+.col-2 {
+       background-color: rgb(72, 226, 25);
+   }
+.col-3 {
+  
+    background-color: rgb(211, 125, 27);
+}
+ 
+.col-4 {
+  
+    background-color: rgb(27, 189, 201);
+ 
+}
+
+
+
+
+/* @media screen and (max-width:425px) { */
+    /* .col-1, .col-3 {
+        display: none;
+}
+
+.col-2 {
+    width: auto;
+    border-radius: 50%;
+    height: auto;
+}
+.col-4 {
+    display: block;
+    }
+} */
+
+
+
+
+
